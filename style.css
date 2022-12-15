@@ -79,7 +79,7 @@ header #toggle:after
   display: flex;
   align-items: center;
   transition: 0.5s;
-  z-index: 2;
+  z-index: -2;
 }
 .banner.active
 {
